@@ -91,12 +91,15 @@ a:after {
   color: #fff;
 }
 
+#topbar-right{
+	float: right;
+}
+
 #topbar-inner {
 	background: #111;
 	line-height: 0;
 	text-align: center;
 }
-
 /*
 	Top Bar
 
