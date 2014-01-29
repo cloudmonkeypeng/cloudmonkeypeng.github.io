@@ -2,11 +2,9 @@
 
 0. 拍一张照片
 
-1. 制作出来中文版
+2. 整理实习／工作安排   important！
 
-4. 整理实习／工作安排
-
-5. 整理作品集
+3. 整理作品集
 
 	可视化作品（经济数据可视化）
 
@@ -22,19 +20,15 @@
 
 	GIS
 
-6. 专业技能
+4. 专业技能  （列出其他专业技能，认真考虑评分）
 
-	数据可视化   Data visualization
+	数据可视化   Data visualization、javascript、html/css
 
-	html/css
+	c++、php、数据库
 
-	javascript
+5.	整理font 与fonts
 
-	php
-
-	c++
-
-	数据库
+6. 多浏览器
 
 7. 保持中英文一致性
 
